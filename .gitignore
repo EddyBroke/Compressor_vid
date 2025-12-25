@@ -1,0 +1,6 @@
+__pycache__/
+*.exe
+*.mp4
+*.mov
+*.mkv
+.env
